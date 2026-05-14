@@ -300,12 +300,6 @@ Confidence: 99.80%
 
 ---
 
-# 🧠 Resume Description
-
-Built an end-to-end AI Cyber Threat Detection System using machine learning and anomaly detection techniques to identify suspicious network activity from NSL-KDD network traffic data. Implemented preprocessing pipelines, binary and multi-class classification, Isolation Forest anomaly detection, risk scoring, and evaluation dashboards using Random Forest, XGBoost, and Scikit-learn.
-
----
-
 # 👩‍💻 Author
 
 Radhi Sri Bhavya Patamsetti
